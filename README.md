@@ -1,6 +1,7 @@
 # Getting and cleaning data Course Project
 
 This is the course project for the Getting and Cleaning Data course part of the Data Science Specialization by John Hopkins University. The script, run_analysis.R, performs the following:
+
 1.	In case the dataset is not in the working directory, it is downloaded and unzipped.
 2.	Loads activity labels and features.
 3.	Creates a variable in order to extract only the features needed (mean and standard deviation) from the original dataset.
