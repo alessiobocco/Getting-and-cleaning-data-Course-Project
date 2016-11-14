@@ -3,9 +3,10 @@
 This documment highlights the labels and results obtained after applying run_analysis.R.
 
 ## Identifiers
+==============
 
-* *`subject`* - The ID of the test subject
-* `activity` - The type of activity performed when the corresponding measurements were taken
+* **__`subject`__** - The ID of the test subject
+* **__`activity`__** - The type of activity performed when the corresponding measurements were taken
 
 ## Measurements
 
